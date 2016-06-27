@@ -2,13 +2,13 @@
 
 ## Learning Objectives
 
-- Explain the importance of OOJS
-- Describe the role of constructor functions, and how they work
-- Use constructor functions and the `new` keyword to create objects with shared properties
-- Describe what a prototype object is, and how they are used in JS
-- Diagram the relationship between an object, its constructor, and prototype
-- Compare / contrast classical and prototypal inheritance
-- Compare `Object.create` vs constructors
+- **Explain** the importance of OOJS
+- **Describe** the role of constructor functions, and how they work
+- **Use** constructor functions and the `new` keyword to create objects with shared properties
+- **Describe** what a prototype object is, and how they are used in JS
+- **Diagram** the relationship between an object, its constructor, and prototype
+- **Compare / contrast** classical and prototypal inheritance
+- **Compare** `Object.create` vs constructors
 
 ## Framing: Object Oriented Programming (10 min)
 

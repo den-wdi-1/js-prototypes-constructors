@@ -343,3 +343,7 @@ ES6 introduces classes - syntactical sugar for working with prototypes and const
 * [W3Schools](http://www.w3schools.com/js/js_object_definition.asp)
 * [CSS Tricks: Understanding-Javascript-Constructors](https://css-tricks.com/understanding-javascript-constructors/)
 * [JavaScript Prototype in Plain Language](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
+
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
